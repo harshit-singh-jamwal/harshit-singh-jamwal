@@ -11,7 +11,7 @@ I enjoy building intelligent systems, solving real-world problems, and continuou
 ## 🚀 Currently
 
 - 🔭 I’m currently working on: AI/ML based projects and strengthening DSA concepts  
-- 🌱 I’m currently learning: Machine Learning, Deep Learning & FastAPI  
+- 🌱 I’m currently learning: Machine Learning, Deep Learning 
 - 🤝 I’m looking to collaborate on: AI/ML Projects and Open Source  
 - 💬 Ask me about: C Programming, DataStructures .  
 - 📫 How to reach me: harshit.s.jamwal@gmail.com  
